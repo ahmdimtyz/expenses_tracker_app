@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "737585255238",
+    "firebase_url": "https://budget-tracking-c1848-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "budget-tracking-c1848",
+    "storage_bucket": "budget-tracking-c1848.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737585255238:android:e5a8add3086cb533cf4b47",
+        "android_client_info": {
+          "package_name": "com.MerryCode.budget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXdL2_HcuQVvioYON17dsM-0k49PxOHc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
